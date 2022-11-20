@@ -24,7 +24,8 @@
 }
 
 .slidermenu__slide {
-  background: #5f5f5f;
+  /* background: #5f5f5f; */
+  background: #7c7c7c;
   position: absolute;
   top: 0;
   left: 0;
